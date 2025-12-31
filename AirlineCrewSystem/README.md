@@ -14,7 +14,6 @@ AirlineCrewSystem/
 │ │ ├─ model/ # Model classes (Person, Crew, Flight, Leave, CrewStatus)
 │ │ └─ notification/ # Notification interfaces and implementations (Notifier, ConsoleNotifier, EmailNotifier)
 ├─ bin/ # Compiled .class files
-├─ docs/ # Reports and documentation (Project Report, etc.)
 ├─ uml/ # UML diagrams (class diagrams in PNG format)
 └─ README.md # Project description and folder hierarchy
 
@@ -25,7 +24,6 @@ AirlineCrewSystem/
 
 - **src/** – Contains all Java source code organized by packages.  
 - **bin/** – Compiled Java class files (auto-generated).  
-- **docs/** – Project report and other documentation files.  
 - **uml/** – UML diagrams illustrating class relationships, inheritance, aggregation, and interfaces.  
 - **README.md** – Provides project overview, folder hierarchy, and usage instructions.
 
@@ -37,3 +35,4 @@ AirlineCrewSystem/
 
 ```bash
 git clone https://github.com/ziling17/AirlineCrewSystem.git
+
